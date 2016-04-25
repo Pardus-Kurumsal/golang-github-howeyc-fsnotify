@@ -9,9 +9,6 @@ Homepage: https://github.com/howeyc/fsnotify.git
 Package: golang-github-howeyc-fsnotify-dev
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends},
-Conflicts: golang-fsnotify.howeyc-dev
-Provides: golang-fsnotify.howeyc-dev
-Replaces: golang-fsnotify.howeyc-dev
 Description: File system notification for GO
  File system notification for GO.
  .

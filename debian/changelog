@@ -1,5 +1,6 @@
-golang-github-howeyc-fsnotify (0.9.0-1) unstable; urgency=medium
+golang-github-howeyc-fsnotify (0.9.0-1) xenial; urgency=medium
 
+  [ Deepin Packages Builder ]
   * provides golang-fsnotify.howeyc 
 
- -- Deepin Packages Builder <packages@linuxdeepin.com>  Thu, 11 Jun 2015 14:31:13 +0800
+ -- lilongyu <leaeasy@gmail.com>  Mon, 25 Apr 2016 12:06:29 +0800
